@@ -21,4 +21,5 @@
   <a href="https://www.linkedin.com/in/alex-rodriguess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-rodriguess&theme=highcontrast)](https://git.io/streak-stats)
 
