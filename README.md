@@ -1,5 +1,5 @@
 
-## Oiii! eu sou o Alex Rodrigues, desenvolvedor Front-end!
+## Olá, eu sou o Alex, desenvolvedor Front-end!
 <div align="center">
   <a href="https://github.com/Alex-Rodriguess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Rodriguess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
